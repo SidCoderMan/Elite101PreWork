@@ -1,4 +1,15 @@
-# Elite101PreWork
-This respitory contains my pre-work for the Elite 101 Course at Code2College
-This prework is a python chatbot
+# Introduction
 
+
+This is a repository created by *Siddharth Rajen*
+
+
+## Usage
+
+
+Run this command to execute the application:
+
+
+`python main.py`
+
+ 
